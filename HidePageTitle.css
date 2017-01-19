@@ -1,0 +1,4 @@
+/* Hide page name */
+.page-header {
+    display: none;   
+}
