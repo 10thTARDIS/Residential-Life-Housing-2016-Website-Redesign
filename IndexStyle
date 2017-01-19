@@ -1,0 +1,105 @@
+<style media="screen" type="text/css"><!--
+/*CSS by Ryan Brooks and ri0tnrrd*/
+/*GNU Terry Pratchett*/
+/*1948-2015*/
+
+/* Create a background behind .page-header, set text color to black, and align text to the center */
+.black {
+    background-color: #fff;
+}
+.page-header {
+    display:none;
+}
+
+/* Create the quote at the top of the page */
+.banner-container::before {
+    color: #981e32;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+    margin-top: 0.3em;
+    display: inline;
+}
+.banner-container::after {
+    content: "Living on campus improves your grades, helps to foster a sense of community, and prepares you for the future";
+    color: black!important;
+    font-size: xx-large;
+    line-height: normal;
+    margin-left: auto;
+    margin-right:auto;
+}
+.banner-container {
+    background-color: #f9f9f9;
+    border-left: 10px solid #ccc;
+    border-right: 10px solid #ccc;
+    quotes: "\201C""\201D""\2018""\2019";
+    color: black!important;
+    text-align: center;
+}
+
+/* Remove sidebar */
+.col-md-3:nth-of-type(2) {
+    display: none;
+    width: 1%;
+}
+.row > .col-md-9.main-content {
+    width: 100%;
+}
+
+/* Make the slideshow do what I want it to do (namely, be thinner, less-intrusive, and not cover up text on the slide) */
+.secondary-slideshow {
+    padding:2px;
+}
+@media screen and (min-width: 767px) {
+    .secondary-slideshow-caption, .secondary-slideshow-caption p {
+        visibility:hidden;
+    }
+}
+@media screen and (max-width: 767px) {
+    .secondary-slideshow-thumbnails, .secondary-slideshow-caption p {
+        display: block;
+    }
+}
+.read-more-box {
+    visibility:visible;
+}
+
+/* Reenable two-column layout */
+.flexbox {
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+}
+
+.left {
+    background: #a0ffa0;
+    min-width: 75px;
+    flex-grow: 0;
+}
+
+.right {
+    background: #a0a0ff;
+    flex-grow: 1;
+}
+
+/* Code snippets that might prove useful eventually, but aren't required at the moment. */
+/* Left column */
+/*.col-md-9 > .row > .col-md-6:nth-of-type(1) {
+    width: 50%;
+}
+/* Right column */
+/*.col-md-9 > .row > .col-md-6:nth-of-type(2) {
+    width: 50%;
+}*/
+/* Main column */
+/*.col-md-9 > .col-md-9 {
+    width: 100%;
+}*/
+/* Remove caption on slideshow */
+/*.secondary-slideshow-caption {
+    visibility:hidden;
+}*/
+--></style>
