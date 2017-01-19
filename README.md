@@ -8,6 +8,10 @@
 -	If you wish to modify the stylesheet, I recommend you have a basic understanding of how CSS works.  It’s not difficult, as programming languages go, but it can get complex when you try to do more complicated things.
   -	For example, we could technically code a completely new website using CSS and HTML, and completely overwrite the default UMSL website, but it would be extremely challenging and prone to failure.
   -	An amazingly good resource for getting started in CSS is [W3Schools](http://www.w3schools.com/).  Other good resources for fixing problems and getting help are [StackOverflow](http://stackoverflow.com/questions/tagged/css) and [/r/CSSHelp](https://www.reddit.com/r/csshelp/).
+  
+If, for some reason, the site-wide styling must be removed, this can be accomplished fairly easily; most of the styling for the site is in the stylesheet, and removal or renaming of that should (mostly) revert the site back to the UMSL defaults.  Any remaining styling can be removed by navigating through the pages in Cascade, opening HTML view, and removing any code at the top.  Please be aware that some pages (such as Virtual Tours, About Us, and the site index) heavily rely on styling to function properly.  Removing the code is not recommended unless you know what you're doing.
+
+If you have any questions about the above, please contact @10thTARDIS for help.
 
 ## To-do list  
 - [x] Housing and Campus Maps (Button on About Us index)  
