@@ -2,7 +2,7 @@
 /*GNU Terry Pratchett*/
 /*1948-2015*/
 
-/* Changing header */
+/* Streamline and brighten the header to give it a more modern feel */
 #breadcrumbs ul {
     background-color: #666;
     padding: 0px 0px 0px 10px;
@@ -65,7 +65,7 @@
 }
 
 /* Slideshow fixes */
-/* Fix page movement on slide change */
+/* Fix page movement on slide change by creating a grey rectangle beneath each inactive thumbnail */
 li.secondary-slide-thumb {
     border-bottom: 4px solid #d3d3d3;
 }
