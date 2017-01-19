@@ -11,7 +11,7 @@
   
 If, for some reason, the site-wide styling must be removed, this can be accomplished fairly easily; most of the styling for the site is in the stylesheet, and removal or renaming of that should (mostly) revert the site back to the UMSL defaults.  Any remaining styling can be removed by navigating through the pages in Cascade, opening HTML view, and removing any code at the top.  Please be aware that some pages (such as Virtual Tours, About Us, and the site index) heavily rely on styling to function properly.  Removing the code is not recommended unless you know what you're doing.
 
-If you have any questions about the above, please contact @10thTARDIS for help.
+If you have any questions about the above, please contact Ryan Brooks for help.
 
 ## To-do list  
 - [x] Housing and Campus Maps (Button on About Us index)  
