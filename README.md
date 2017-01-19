@@ -7,7 +7,7 @@
 -	The CSS stylesheet is located in files -> CSS -> stylesheet.CSS.  Please make all site-wide changes to the stylesheet.  This stylesheet controls the Res-Life-specific look of the website (removes one of the top bars, makes color changes, adds support for various styles, etc).
 -	If you wish to modify the stylesheet, I recommend you have a basic understanding of how CSS works.  It’s not difficult, as programming languages go, but it can get complex when you try to do more complicated things.
   -	For example, we could technically code a completely new website using CSS and HTML, and completely overwrite the default UMSL website, but it would be extremely challenging and prone to failure.
-  -	An amazingly good resource for getting started in CSS is W3Schools.  Other good resources for fixing problems and getting help are StackOverflow and /r/CSSHelp.
+  -	An amazingly good resource for getting started in CSS is [W3Schools](http://www.w3schools.com/).  Other good resources for fixing problems and getting help are [StackOverflow](http://stackoverflow.com/questions/tagged/css) and [/r/CSSHelp](https://www.reddit.com/r/csshelp/).
 
 ## To-do list  
 - [x] Housing and Campus Maps (Button on About Us index)  
