@@ -10,17 +10,28 @@
   -	For example, we could technically code a completely new website using CSS and HTML, and completely overwrite the default UMSL website, but it would be extremely challenging and prone to failure.
   -	An amazingly good resource for getting started in CSS is W3Schools.  Other good resources for fixing problems and getting help are StackOverflow and /r/CSSHelp.
 
-## To-do list  
-[x] Housing and Campus Maps (Button on About Us index)  
-[ ] Need job descriptions for student/professional staff  
-[ ] Need updated copy  
+## To-do list
+
+[x] Housing and Campus Maps (Button on About Us index)
+
+[ ] Need job descriptions for student/professional staff
+
+[ ] Need updated copy
+
 [ ] Need Housing Initiative information (button on About Us index)  
 
-## Code Snippets  
-Add custom CSS to a page  
-Stylesheet snippet  
-Remove sidebar  
-Change to two-column layout  
-Redesign slideshow  
-Banner quote  
+## Code Snippets
+
+Add custom CSS to a page
+
+Stylesheet snippet
+
+Remove sidebar
+
+Change to two-column layout
+
+Redesign slideshow
+
+Banner quote
+
 Resize iFrames  
