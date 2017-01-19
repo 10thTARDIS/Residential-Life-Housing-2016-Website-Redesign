@@ -23,3 +23,4 @@
 [Redesign slideshow](SlideshowRedesign.css)  
 [Banner quote](BannerQuote.css)  
 [Resize iFrames](ResizeIframes.html)  
+[Hide Page Title](HidePageTitle.css)
