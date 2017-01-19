@@ -24,3 +24,4 @@
 [Banner quote](BannerQuote.css)  
 [Resize iFrames](ResizeIframes.html)  
 [Hide Page Title](HidePageTitle.css)
+[Highlight text](Highlight.css)
