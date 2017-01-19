@@ -1,0 +1,8 @@
+/* Remove sidebar */
+.col-md-3:nth-of-type(2) {
+    display: none;
+    width: 1%;
+}
+.row > .col-md-9.main-content {
+    width: 100%;
+}
