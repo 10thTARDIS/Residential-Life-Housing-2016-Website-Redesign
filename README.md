@@ -1,5 +1,5 @@
 # UMSL Office of Residential Life & Housing
-## 2016 Website Redesign Documentation
+## 2016 Website Redesign Documentation and User Guide
 
 -	When adding or editing a picture in a slideshow, add a space after the "learn more", "read more" or whatever text you've chosen for the link.
 -	There are numerous pages with page-specific styling located inside the html view.  Do not touch this, under any circumstances, unless you know what you are doing.  When in doubt, stick to non-html edit view.
