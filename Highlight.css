@@ -1,0 +1,10 @@
+/* Highlight styling */
+.highlight{
+    background-color:#F0C44C;
+    color:#444;
+    border:0px
+}
+
+/* Use class="highlight" to set a line or block of text to be highlighted.  For example: */
+
+<h3 class="highlight" style="text-align: center;">YourTextHere</h3>
