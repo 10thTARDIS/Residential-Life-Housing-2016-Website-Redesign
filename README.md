@@ -16,18 +16,11 @@
 - [ ] Need updated copy  
 - [ ] Need Housing Initiative information (button on About Us index)  
 
-## Code Snippets
-
-Add custom CSS to a page
-
-Stylesheet snippet
-
-Remove sidebar
-
-Change to two-column layout
-
-Redesign slideshow
-
-Banner quote
-
+## Code Snippets  
+Add custom CSS to a page  
+Stylesheet snippet  
+Remove sidebar  
+Change to two-column layout  
+Redesign slideshow  
+Banner quote  
 Resize iFrames  
