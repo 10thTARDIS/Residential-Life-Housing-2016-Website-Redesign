@@ -17,10 +17,10 @@
 - [ ] Need Housing Initiative information (button on About Us index)  
 
 ## Code Snippets  
-Add custom CSS to a page  
-Stylesheet snippet  
-Remove sidebar  
-Change to two-column layout  
-Redesign slideshow  
-Banner quote  
-Resize iFrames  
+[Add custom CSS to a page](AddCSS.html)  
+[Stylesheet snippet](LinkStylesheet.html)  
+[Remove right sidebar](RightSidebarRemoval.css)  
+[Change to two-column layout](EnableTwoColumns.css)  
+[Redesign slideshow](SlideshowRedesign.css)  
+[Banner quote](BannerQuote.css)  
+[Resize iFrames](ResizeIframes.html)  
