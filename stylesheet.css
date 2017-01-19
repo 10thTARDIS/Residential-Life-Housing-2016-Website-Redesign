@@ -1,0 +1,71 @@
+/*CSS by Ryan Brooks and ri0tnrrd*/
+/*GNU Terry Pratchett*/
+/*1948-2015*/
+
+/* Changing header */
+#breadcrumbs ul {
+    background-color: #666;
+    padding: 0px 0px 0px 10px;
+    width: 100%;
+}
+.ul {
+    padding: 0px 0px 0px 0px;
+}
+.black {
+    background-color: #fff;
+}
+.page-header {
+    color: black!important;
+    padding: 0px 0px 0px 0px;
+}
+.content-container {
+    padding-top: 10px;
+}
+
+/* Blockquote styling */
+.blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+.blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+.blockquote:after {
+  color: #ccc;
+  content: close-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-left: 0.25em;
+  vertical-align: -0.5em;
+}
+.blockquote p {
+  display: inline;
+  margin: 0;
+  text-indent: 1em
+}
+
+/* Highlight styling */
+.highlight{
+    background-color:#F0C44C;
+    color:#444;
+    border:0px
+}
+
+/* Get rid of the excessive whitespace along the sides of the page */
+.container {
+    width: 85%;
+}
+
+/* Slideshow fixes */
+/* Fix page movement on slide change */
+li.secondary-slide-thumb {
+    border-bottom: 4px solid #d3d3d3;
+}
