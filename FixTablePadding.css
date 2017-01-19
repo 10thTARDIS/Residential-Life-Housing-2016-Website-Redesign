@@ -1,0 +1,7 @@
+/* Fix table padding */
+th, td {
+    padding-left: 3px;
+}
+th, td {
+    padding-right: 3px;
+}
