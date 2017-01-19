@@ -1,0 +1,17 @@
+/* Make the slideshow thinner, less-intrusive, and not cover up text on the slide */
+.secondary-slideshow {
+    padding:2px;
+}
+@media screen and (min-width: 767px) {
+    .secondary-slideshow-caption, .secondary-slideshow-caption p {
+        visibility:hidden;
+    }
+}
+@media screen and (max-width: 767px) {
+    .secondary-slideshow-thumbnails, .secondary-slideshow-caption p {
+        display: block;
+    }
+}
+.read-more-box {
+    visibility:visible;
+}
