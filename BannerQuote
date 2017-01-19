@@ -1,0 +1,27 @@
+/* Create the quote at the top of the page */
+.banner-container::before {
+    color: #981e32;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+    margin-top: 0.3em;
+    display: inline;
+}
+.banner-container::after {
+    content: "Living on campus improves your grades, helps to foster a sense of community, and prepares you for the future";
+    color: black!important;
+    font-size: xx-large;
+    line-height: normal;
+    margin-left: auto;
+    margin-right:auto;
+}
+.banner-container {
+    background-color: #f9f9f9;
+    border-left: 10px solid #ccc;
+    border-right: 10px solid #ccc;
+    quotes: "\201C""\201D""\2018""\2019";
+    color: black!important;
+    text-align: center;
+}
