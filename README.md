@@ -28,4 +28,5 @@ If you have any questions about the above, please contact Ryan Brooks for help.
 [Banner quote](BannerQuote.css)  
 [Resize iFrames](ResizeIframes.html)  
 [Hide Page Title](HidePageTitle.css)
-[Highlight text](Highlight.css)
+[Highlight text](Highlight.css)  
+[Fix Table Padding](FixTablePadding.css)
