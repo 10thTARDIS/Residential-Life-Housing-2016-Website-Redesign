@@ -11,10 +11,10 @@
   -	An amazingly good resource for getting started in CSS is W3Schools.  Other good resources for fixing problems and getting help are StackOverflow and /r/CSSHelp.
 
 ## To-do list  
--[x] Housing and Campus Maps (Button on About Us index)  
--[ ] Need job descriptions for student/professional staff  
--[ ] Need updated copy  
--[ ] Need Housing Initiative information (button on About Us index)  
+- [x] Housing and Campus Maps (Button on About Us index)  
+- [ ] Need job descriptions for student/professional staff  
+- [ ] Need updated copy  
+- [ ] Need Housing Initiative information (button on About Us index)  
 
 ## Code Snippets
 
