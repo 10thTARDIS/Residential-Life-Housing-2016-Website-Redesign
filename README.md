@@ -15,10 +15,23 @@ If, for some reason, the site-wide styling must be removed, this can be accompli
 If you have any questions about the above, please contact Ryan Brooks for help.
 
 ## To-do list  
-- [x] Housing and Campus Maps (Button on About Us index)  
+- [x] Preliminary redesign of site  
+- [x] Transfer content from old site  
+- [x] Second redesign of site to accomodate actual content  
+- [x] Preliminary update of copy to ensure it's up-to-date and accurate  
+- [x] Create new contact forms with email alerts  
+- [x] Migrate maintenance form  
+- [x] Redesign graphics as needed  
+- [x] Clean-up CSS  
+- [x] Redesign slideshow  
+- [x] Create fix for loss of native two-column support  
+- [x] Create fix for resizing iframes so tours resize correctly  
+- [x] Redo banner quote so it's not quite as hacky   
+- [ ] Housing and Campus Maps (Button on About Us index)  
 - [ ] Need job descriptions for student/professional staff  
 - [ ] Need updated copy  
 - [ ] Need Housing Initiative information (button on About Us index)  
+- [ ] Completely ready to push to live site 
 
 ## Code Snippets  
 [Add custom CSS to a page](CSSsnippets/AddCSS.html)  
