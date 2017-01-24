@@ -1,0 +1,8 @@
+/* Create circular photos */
+/* Place the following code in the html code for the image */
+
+class="img-circle"
+
+/* Example: */
+
+<img alt="description of photo" class="img-circle" height="xx" src="img source" width="xx" />
