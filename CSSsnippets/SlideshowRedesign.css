@@ -15,3 +15,6 @@
 .read-more-box {
     visibility:visible;
 }
+#carousel-custom .carousel-inner {
+    height: 100%;
+}
