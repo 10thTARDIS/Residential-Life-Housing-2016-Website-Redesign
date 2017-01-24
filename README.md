@@ -30,3 +30,10 @@ If you have any questions about the above, please contact Ryan Brooks for help.
 [Hide Page Title](CSSsnippets/HidePageTitle.css)
 [Highlight text](CSSsnippets/Highlight.css)  
 [Fix Table Padding](CSSsnippets/FixTablePadding.css)
+
+## Page Styles
+
+Some pages have more extensive styling.  They're backed up here; please keep them updated and submit pull requests if you make changes.  
+[index](PageStyling/index.html)
+[VirtualTours](PageStyling/VirtualTours.html)
+[MaintenanceRequest](PageStyling/MaintenanceRequest.html)
