@@ -34,6 +34,6 @@ If you have any questions about the above, please contact Ryan Brooks for help.
 ## Page Styles
 
 Some pages have more extensive styling.  They're backed up here; please keep them updated and submit pull requests if you make changes.  
-[index](PageStyling/index.html)
-[VirtualTours](PageStyling/VirtualTours.html)
-[MaintenanceRequest](PageStyling/MaintenanceRequest.html)
+[index](PageStyling/index.html)  
+[VirtualTours](PageStyling/VirtualTours.html)  
+[MaintenanceRequest](PageStyling/MaintenanceRequest.html)  
