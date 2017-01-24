@@ -23,7 +23,7 @@ If you have any questions about the above, please contact Ryan Brooks for help.
 [Add custom CSS to a page](CSSsnippets/AddCSS.html)  
 [Stylesheet snippet](CSSsnippets/LinkStylesheet.html)  
 [Remove right sidebar](CSSsnippets/RightSidebarRemoval.css)  
-[Change to two-column layout](CSSsnippets/EnableTwoColumns.css)  
+[Change to two-column layout](CSSsnippets/EnableTwoColumns.html)  
 [Redesign slideshow](CSSsnippets/SlideshowRedesign.css)  
 [Banner quote](CSSsnippets/BannerQuote.css)  
 [Resize iFrames](CSSsnippets/ResizeIframes.html)  
