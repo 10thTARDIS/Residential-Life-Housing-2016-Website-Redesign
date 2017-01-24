@@ -14,7 +14,7 @@ If, for some reason, the site-wide styling must be removed, this can be accompli
 
 If you have any questions about the above, please contact Ryan Brooks for help.
 
-## To-do list  
+## To-do list (also tracked in Issues)  
 - [x] Preliminary redesign of site  
 - [x] Transfer content from old site  
 - [x] Second redesign of site to accomodate actual content  
