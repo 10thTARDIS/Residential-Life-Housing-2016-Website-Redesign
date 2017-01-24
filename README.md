@@ -30,7 +30,8 @@ If you have any questions about the above, please contact Ryan Brooks for help.
 [Resize iFrames](CSSsnippets/ResizeIframes.html)  
 [Hide Page Title](CSSsnippets/HidePageTitle.css)
 [Highlight text](CSSsnippets/Highlight.css)  
-[Fix Table Padding](CSSsnippets/FixTablePadding.css)
+[Fix Table Padding](CSSsnippets/FixTablePadding.css)  
+[Circular photos](CSSsnippets/CircularPhotos.css)
 
 ## Page Styles
 
