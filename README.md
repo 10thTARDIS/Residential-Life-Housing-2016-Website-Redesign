@@ -37,3 +37,9 @@ Some pages have more extensive styling.  They're backed up here; please keep the
 [index](PageStyling/index.html)  
 [VirtualTours](PageStyling/VirtualTours.html)  
 [MaintenanceRequest](PageStyling/MaintenanceRequest.html)  
+
+## Stylesheet
+
+The stylesheet controls the site-wide changes that have been made.  Please test changes you make to it before publishing to the live site; if you must push to the live site before testing, please be prepared to roll it back quickly.
+
+[Stylesheet](stylesheet.css)
