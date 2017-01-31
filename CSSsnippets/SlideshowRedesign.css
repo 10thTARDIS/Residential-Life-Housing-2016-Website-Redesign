@@ -1,4 +1,6 @@
 /* Make the slideshow thinner, less-intrusive, and not cover up text on the slide */
+/* This is styled on a per-page basis, in case we ever need to have a "normal" slideshow on a specific page. */
+/* This could be included in the stylesheet if the original slideshow is not needed */
 .secondary-slideshow {
     padding:2px;
 }
@@ -18,3 +20,5 @@
 #carousel-custom .carousel-inner {
     height: 100%;
 }
+
+/* There's a fix for the page moving up and down on every slide change already included in the stylesheet */
