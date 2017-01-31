@@ -59,3 +59,9 @@ The stylesheet controls the site-wide changes that have been made.  Please test 
 Please submit a pull request if you make changes to the stylesheet.
 
 [Stylesheet](stylesheet.css)
+
+## Contact Us Form
+
+ITS strongly suggested that we move to Google Forms instead of their hosted Forms solution.  Google Forms does not support emailing the full response from a form to a specific email, but it is possible to write a notification script that runs whenever a response is submitted.
+
+[Google Forms Response Notification](OtherThings/ContactUsFormEmailResponses.gs)
