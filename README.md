@@ -27,10 +27,10 @@ If you have any questions about the above, please contact Ryan Brooks for help.
 - [x] Create fix for loss of native two-column support  
 - [x] Create fix for resizing iframes so tours resize correctly  
 - [x] Redo banner quote so it's not quite as hacky   
-- [ ] Housing and Campus Maps (Button on About Us index)  
-- [ ] Need job descriptions for student/professional staff  
+- [X] Housing and Campus Maps (Button on About Us index)  
+- [X] Need job descriptions for student/professional staff  
 - [ ] Need updated copy  
-- [ ] Need Housing Initiative information (button on About Us index)  
+- [X] Need Housing Initiative information (button on About Us index)  
 - [ ] Completely ready to push to live site 
 
 ## Code Snippets  
