@@ -39,13 +39,16 @@ If you have any questions about the above, please contact Ryan Brooks for help.
 [Remove right sidebar](CSSsnippets/RightSidebarRemoval.css)  
 [Change to two-column layout](CSSsnippets/EnableTwoColumns.html)  
 [Redesign slideshow](CSSsnippets/SlideshowRedesign.css)  
-[Banner quote](CSSsnippets/BannerQuote.css)  
-[Resize iFrames](CSSsnippets/ResizeIframes.html)  
+[Banner quote](CSSsnippets/BannerQuote.css) 
 [Hide Page Title](CSSsnippets/HidePageTitle.css)  
 [Highlight text](CSSsnippets/Highlight.css)  
 [Fix Table Padding](CSSsnippets/FixTablePadding.css)  
 [Circular photos](CSSsnippets/CircularPhotos.css)  
 [Resize YouTube videos](CSSsnippets/ResizeYouTube.css)
+
+## Deprecated Code Snippets  
+These are snippets that may again be useful at some point, but have been replaced by other solutions.  
+[Resize iFrames](CSSsnippets/ResizeIframes.html) 
 
 ## Page Styles
 
