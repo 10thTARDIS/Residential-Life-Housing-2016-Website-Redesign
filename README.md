@@ -45,6 +45,7 @@ If you have any questions about the above, please contact Ryan Brooks for help.
 [Highlight text](CSSsnippets/Highlight.css)  
 [Fix Table Padding](CSSsnippets/FixTablePadding.css)  
 [Circular photos](CSSsnippets/CircularPhotos.css)
+[Resize YouTube videos](CSSsnippets/ResizeYouTube.css)
 
 ## Page Styles
 
