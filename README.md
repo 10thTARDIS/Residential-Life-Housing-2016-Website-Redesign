@@ -29,9 +29,9 @@ If you have any questions about the above, please contact Ryan Brooks for help.
 - [x] Redo banner quote so it's not quite as hacky   
 - [X] Housing and Campus Maps (Button on About Us index)  
 - [X] Need job descriptions for student/professional staff  
-- [ ] Need updated copy  
+- [X] Need updated copy  
 - [X] Need Housing Initiative information (button on About Us index)  
-- [ ] Completely ready to push to live site 
+- [X] Completely ready to push to live site 
 
 ## Code Snippets  
 [Add custom CSS to a page](CSSsnippets/AddCSS.html)  
