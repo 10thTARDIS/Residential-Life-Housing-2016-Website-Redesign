@@ -1,3 +1,4 @@
+<style media="screen" type="text/css"><!--
 /* Resize iframes/YouTube */
 .videoWrapper {
     position: relative;
@@ -12,6 +13,8 @@
 	width: 100%;
 	height: 100%;
 }
+--></style>
 
-/* Add a div called videoWrapper around the YouTube video */
-<div class="videoWrapper"> YouTube iframe goes here </div>
+<!-- Add a div called videoWrapper around the YouTube video -->
+
+<div class="videoWrapper"> <!-- YouTube iframe goes here --> </div>
