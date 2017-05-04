@@ -1,5 +1,5 @@
 // This is borrowed from this example on the Google Docs help forum: https://productforums.google.com/forum/#!topic/docs/5V_o-uqVaD4;context-place=topicsearchin/docs/form$20results$20in$20email
-// Updated (slightly) in October 2016 by Ryan Brooks.
+// Updated (slightly) in October 2016 and May 2017 by Ryan Brooks.
 function Initialize() {
  
     var triggers = ScriptApp.getProjectTriggers();
@@ -23,11 +23,11 @@ function SendFormToEmail(e) {
   var rowCount;
   
   // Who do you want the results sent to?
-  sendToEmail = "umslreslife@umsl.edu";
+  sendToEmail = "<Insert email address you want responses sent to here>";
   
   // Setup Subject & Start of Message Body  
   subject = "New Contact Us Request - Details";
-  message = "The following message was just submitted through the new Contact Us form on the test website:<br>";
+  message = "The following message was just submitted through the Contact Us form on the website:<br>";
   textbody = message;
   
   // Grab most recent submission data from spreadsheet
